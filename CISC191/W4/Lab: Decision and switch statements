@@ -1,19 +1,19 @@
-# 🧮 Lab: Menu-Driven Calculator
+# Lab: Menu-Driven Calculator
 
-## ✅ Learning Outcomes
+## Learning Outcomes
 
 By completing this lab, I was able to:
 
-- ✅ Apply `if/else` and `switch` statements to implement menu options.
-- ✅ Validate user input and reject non-numeric values.
-- ✅ Handle edge cases like division by zero.
-- ✅ Use `enum class` for type-safe menu options.
-- ✅ Understand short-circuiting and control flow.
-- ✅ Create a complete interactive calculator integrating user input, decisions, and arithmetic operations.
+- Apply `if/else` and `switch` statements to implement menu options.
+- Validate user input and reject non-numeric values.
+- Handle edge cases like division by zero.
+- Use `enum class` for type-safe menu options.
+- Understand short-circuiting and control flow.
+- Create a complete interactive calculator integrating user input, decisions, and arithmetic operations.
 
 ---
 
-## 🧑‍💻 Calculator.cpp
+## Calculator.cpp
 
 ```cpp
 #include <iostream> // For cin and cout
