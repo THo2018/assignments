@@ -165,6 +165,6 @@ int main() {
 }
 ```
 
-## Screenshot Link
+## Output Screenshot
 
-https://github.com/THo2018/assignments/blob/main/CISC191/images/C%2B%2B%20Practice%20Lab%20—%20Strings%2C%20Substrings%20%26%20Text%20Analysis%20Successful%20Execution%20code%20screenshot.png
+![Execution Screenshot](https://github.com/THo2018/assignments/blob/main/CISC191/images/C%2B%2B%20Practice%20Lab%20—%20Strings%2C%20Substrings%20%26%20Text%20Analysis%20Successful%20Execution%20code%20screenshot.png)
